@@ -1,0 +1,5 @@
+Copy all files into stylesheets/saas
+
+Add to your Header:
+
+stylesheet_link_tag "blueprint"
