@@ -1,5 +1,12 @@
-Copy all files into stylesheets/saas
+SASS Port of Blueprint 0.7.1
 
-Add to your Header:
+Requirements:
+Haml 2.0
 
+Installation:
+1) Copy all files into stylesheets/sass
+
+2) Add a stylesheet include to your HTML Header:
 stylesheet_link_tag "blueprint"
+
+3) Optionally: edit grid size in stylesheets/sass/blueprint.sass
